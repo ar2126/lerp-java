@@ -1,0 +1,59 @@
+commit e707122c0dfcb91908f1f7825d164622c182dd66
+Author: ar2126 <ar2126@cs.rit.edu>
+Date:   Fri Apr 1 13:43:16 2016 -0400
+
+    Parser & Lerp completed
+
+commit 9254b2492837c1b2ed403832d581719eb16546b9
+Author: ar2126 <ar2126@cs.rit.edu>
+Date:   Wed Mar 30 21:18:24 2016 -0400
+
+    Exp classes completed. Holder & Lerp completed
+
+commit f4ba2858f194ff3b7d4bc43c7301cc5042d24d23
+Author: ar2126 <ar2126@cs.rit.edu>
+Date:   Wed Mar 30 15:30:21 2016 -0400
+
+    Exp classes constructed. Lerp completed
+
+commit f1ac40c051ae1cd1f0d981eda30cf068af94e2e8
+Author: ar2126 <ar2126@cs.rit.edu>
+Date:   Wed Mar 30 10:46:52 2016 -0400
+
+    ANFOp classes implemented
+
+commit 43430bc517a97262357a04ebb61e9f2356a63053
+Author: ar2126 <ar2126@cs.rit.edu>
+Date:   Wed Mar 30 10:37:48 2016 -0400
+
+    ANFExp classes implemented
+
+commit 64e15184c8b553c8e303dc0c5213f027e2ab74e4
+Author: ar2126 <ar2126@cs.rit.edu>
+Date:   Fri Mar 11 11:25:49 2016 -0500
+
+    1-1 completed
+
+commit e6dd6a788ad5d6866137d3cdff3e459ba1fa5ca3
+Author: ar2126 <ar2126@cs.rit.edu>
+Date:   Fri Mar 11 11:03:34 2016 -0500
+
+    Machine completed
+
+commit e4842ccb000899ec660f152271001758c5db99c3
+Author: ar2126 <ar2126@cs.rit.edu>
+Date:   Fri Mar 11 10:01:20 2016 -0500
+
+    execute methods completed
+
+commit a43d75e5db0ea48675d5b10a89941929e7ea4dda
+Author: ar2126 <ar2126@cs.rit.edu>
+Date:   Thu Mar 10 17:49:49 2016 -0500
+
+    Constructors completed
+
+commit 8959e2c7a2dddc6ee87e5203045748f0b15f3502
+Author: ar2126 <ar2126@cs.rit.edu>
+Date:   Wed Mar 9 18:39:52 2016 -0500
+
+    Initial Revision
